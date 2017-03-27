@@ -1,0 +1,23 @@
+{
+  "name": "alexa",
+  "version": "1.0.0",
+  "description": "This is for testing alexa skills",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khalidelaggan/alexa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khalidelaggan/alexa/issues"
+  },
+  "homepage": "https://github.com/khalidelaggan/alexa#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
